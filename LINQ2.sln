@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work", "Work\Work.csproj", "{4B3B5437-D327-4C69-AD23-8AAF7EAB6C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classrooms", "Classrooms\Classrooms.csproj", "{41326FC7-F43A-4CA1-8D4F-5792C8A7B980}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{41326FC7-F43A-4CA1-8D4F-5792C8A7B980}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
